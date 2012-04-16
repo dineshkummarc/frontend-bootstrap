@@ -21,6 +21,6 @@ To use this tool, you need the the following few things installed:
 
 * `$ make` or `$ make all`: compiles the less file _assets/css/less/style.less_ to _assets/css/style.css_ and the coffescript file _assets/js/app.coffee_ to _assets/js/app.js_
 * `$ make less`: only compiles the less file
-* `$ make watch-less`: watch less files and trigger the `$ make less` command on changes
+* `$ make watch-less`: watch less files and trigger the `make less` command on changes
 * `$ make coffee`: Brew some coffee and relax. Ok this command really compiles the coffescript file app.coffee
 * `$ make watch-coffee`: watch the coffeescript file and tigger the `make coffee` command on changes
