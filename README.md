@@ -4,7 +4,7 @@ This is a bootstrap repository for kickstart developing the frontend of web appl
 
 ## How to kickstart
 
-    $ git clone git@github.com:dotsunited/chat-frontend.git frontend
+    $ git clone git@github.com:rendro/frontend.git frontend
     $ cd frontend
     $ make
 
